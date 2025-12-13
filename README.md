@@ -55,7 +55,7 @@ Aplicación web avanzada donde trabajo principalmente con **JavaScript, CSS, HTM
 
 ### tictactoefinalgame
 
-Proyecto de **juego de tres en raya (tic-tac-toe)** llevado a producción, integrando tanto la parte web como la infraestructura. Incluye trabajo con **JavaScript, CSS, HTML** y herramientas de infraestructura como **Terraform**, **Docker**, **AWS EC2**, lo que lo convierte en un ejemplo de aplicación desplegable en entornos cloud.
+Proyecto de **juego de tres en raya (tic-tac-toe)** llevado a producción, integrando tanto la parte web como la infraestructura. Incluye trabajo con herramientas de infraestructura como **Terraform**, **Docker**, **AWS EC2**, lo que lo convierte en un ejemplo de aplicación desplegable en entornos cloud.
 
 - 🔗 Repositorio: [tictactoefinalgame](https://github.com/alvarohr113/tictactoefinalgame)
 
