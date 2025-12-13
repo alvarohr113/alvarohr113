@@ -5,8 +5,6 @@ He trabajado en proyectos que van desde **infraestructura como código con Terra
 
 Actualmente estoy desarrollando un proyecto de **MCP (Model Context Protocol) con MultiAgentes**, explorando cómo orquestar múltiples agentes inteligentes para resolver problemas de forma colaborativa.
 
-Me gusta aprender tecnologías nuevas, aplicar buenas prácticas y construir soluciones que realmente funcionen en entornos reales.
-
 ---
 
 ## Skills 🛠️
@@ -49,35 +47,22 @@ Me gusta aprender tecnologías nuevas, aplicar buenas prácticas y construir sol
 
 ### AdvanceWebTechnologyProject
 
-Aplicación web avanzada donde trabajo principalmente con **JavaScript, CSS y HTML** (stack frontend moderno), enfocada en buenas prácticas de desarrollo web y organización del código.
+Aplicación web avanzada donde trabajo principalmente con **JavaScript, CSS, HTML, Express.js y MongoDB** , enfocada en buenas prácticas de desarrollo web y organización del código.
 
-- 🔧 Tech principales: **JavaScript (62%) · CSS (35.4%) · HTML (2.6%)**
 - 🔗 Repositorio: [AdvanceWebTechnologyProject](https://github.com/alvarohr113/AdvanceWebTechnologyProject)
 
 ---
 
 ### tictactoefinalgame
 
-Proyecto de **juego de tres en raya (tic-tac-toe)** llevado a producción, integrando tanto la parte web como la infraestructura. Incluye trabajo con **JavaScript, CSS, HTML** y herramientas de infraestructura como **Terraform (HCL)** y **Docker**, lo que lo convierte en un ejemplo de aplicación desplegable en entornos cloud.
+Proyecto de **juego de tres en raya (tic-tac-toe)** llevado a producción, integrando tanto la parte web como la infraestructura. Incluye trabajo con **JavaScript, CSS, HTML** y herramientas de infraestructura como **Terraform**, **Docker**, **AWS EC2**, lo que lo convierte en un ejemplo de aplicación desplegable en entornos cloud.
 
-- 🔧 Tech principales: **JavaScript (32.5%) · CSS (32.3%) · HCL/Terraform (19.6%) · HTML (10.8%) · Dockerfile (4.8%)**
 - 🔗 Repositorio: [tictactoefinalgame](https://github.com/alvarohr113/tictactoefinalgame)
-
----
-
-## Qué puedo aportar 💡
-
-- Visión tanto de **desarrollo** como de **infraestructura** (Terraform, Docker, AWS).
-- Experiencia construyendo una **aplicación full stack MERN** y trabajando con **bases de datos SQL** (MySQL, SQLite, PostgreSQL).
-- Interés real por la **ciberseguridad** y por entender cómo proteger sistemas y aplicaciones.
-- Capacidad para **aprender rápido**, adaptarme al stack de la empresa y trabajar en equipo.
-
----
 
 ## Contacto 📫
 
 - 🧑‍💻 GitHub: [alvarohr113](https://github.com/alvarohr113)
-
+- 📧 Email: alvaro201102@gmail.com
 <!--
 Puedes añadir aquí tu email y LinkedIn si quieres que las empresas te contacten más fácilmente, por ejemplo:
 
